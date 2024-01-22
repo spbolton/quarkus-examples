@@ -1,0 +1,17 @@
+
+z
+java:S3252'"_Use static access with "io.quarkus.hibernate.reactive.panache.PanacheEntityBase" for "listAll".(‡‹ÀÓøÿÿÿÿ
+]
+java:S6813?"BRemove this field injection and use constructor injection instead.(Áº–üÿÿÿÿ
+b
+java:S1128"GRemove this unused import 'jakarta.ws.rs.core.Response.Status.CREATED'.(™Ä»¯şÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'io.quarkus.hibernate.reactive.panache.Panache'.(ğ˜ï¦ıÿÿÿÿ
+D
+java:S1128"/Remove this unused import 'jakarta.ws.rs.POST'.(ŞÎÌ
+r
+java:S1128"WRemove this unused import 'org.eclipse.microprofile.openapi.annotations.media.Content'.(ÅÙúŞÿÿÿÿÿ
+s
+java:S1128"]Remove this unused import 'org.eclipse.microprofile.openapi.annotations.media.ExampleObject'.(Ç¹¯å
+v
+java:S1128"`Remove this unused import 'org.eclipse.microprofile.openapi.annotations.parameters.RequestBody'.(üœò
